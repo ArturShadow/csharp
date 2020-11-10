@@ -1,0 +1,13 @@
+P:\c#\LoyaVSC02\bin\Debug\netcoreapp3.1\LoyaVSC02.exe
+P:\c#\LoyaVSC02\bin\Debug\netcoreapp3.1\LoyaVSC02.deps.json
+P:\c#\LoyaVSC02\bin\Debug\netcoreapp3.1\LoyaVSC02.runtimeconfig.json
+P:\c#\LoyaVSC02\bin\Debug\netcoreapp3.1\LoyaVSC02.runtimeconfig.dev.json
+P:\c#\LoyaVSC02\bin\Debug\netcoreapp3.1\LoyaVSC02.dll
+P:\c#\LoyaVSC02\bin\Debug\netcoreapp3.1\LoyaVSC02.pdb
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.csprojAssemblyReference.cache
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.AssemblyInfoInputs.cache
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.AssemblyInfo.cs
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.csproj.CoreCompileInputs.cache
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.dll
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.pdb
+P:\c#\LoyaVSC02\obj\Debug\netcoreapp3.1\LoyaVSC02.genruntimeconfig.cache

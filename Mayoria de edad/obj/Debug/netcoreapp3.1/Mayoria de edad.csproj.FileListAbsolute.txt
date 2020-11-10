@@ -1,0 +1,4 @@
+P:\c#\Mayoria de edad\obj\Debug\netcoreapp3.1\Mayoria de edad.csprojAssemblyReference.cache
+P:\c#\Mayoria de edad\obj\Debug\netcoreapp3.1\Mayoria de edad.AssemblyInfoInputs.cache
+P:\c#\Mayoria de edad\obj\Debug\netcoreapp3.1\Mayoria de edad.AssemblyInfo.cs
+P:\c#\Mayoria de edad\obj\Debug\netcoreapp3.1\Mayoria de edad.csproj.CoreCompileInputs.cache

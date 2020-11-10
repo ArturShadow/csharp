@@ -1,0 +1,13 @@
+P:\c#\mayordeedad\bin\Debug\netcoreapp3.1\mayordeedad.exe
+P:\c#\mayordeedad\bin\Debug\netcoreapp3.1\mayordeedad.deps.json
+P:\c#\mayordeedad\bin\Debug\netcoreapp3.1\mayordeedad.runtimeconfig.json
+P:\c#\mayordeedad\bin\Debug\netcoreapp3.1\mayordeedad.runtimeconfig.dev.json
+P:\c#\mayordeedad\bin\Debug\netcoreapp3.1\mayordeedad.dll
+P:\c#\mayordeedad\bin\Debug\netcoreapp3.1\mayordeedad.pdb
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.csprojAssemblyReference.cache
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.AssemblyInfoInputs.cache
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.AssemblyInfo.cs
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.csproj.CoreCompileInputs.cache
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.dll
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.pdb
+P:\c#\mayordeedad\obj\Debug\netcoreapp3.1\mayordeedad.genruntimeconfig.cache

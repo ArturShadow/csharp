@@ -1,0 +1,13 @@
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.csprojAssemblyReference.cache
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.AssemblyInfoInputs.cache
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.AssemblyInfo.cs
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.csproj.CoreCompileInputs.cache
+P:\c#\añoBisiesto\bin\Debug\netcoreapp3.1\añoBisiesto.exe
+P:\c#\añoBisiesto\bin\Debug\netcoreapp3.1\añoBisiesto.deps.json
+P:\c#\añoBisiesto\bin\Debug\netcoreapp3.1\añoBisiesto.runtimeconfig.json
+P:\c#\añoBisiesto\bin\Debug\netcoreapp3.1\añoBisiesto.runtimeconfig.dev.json
+P:\c#\añoBisiesto\bin\Debug\netcoreapp3.1\añoBisiesto.dll
+P:\c#\añoBisiesto\bin\Debug\netcoreapp3.1\añoBisiesto.pdb
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.dll
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.pdb
+P:\c#\añoBisiesto\obj\Debug\netcoreapp3.1\añoBisiesto.genruntimeconfig.cache

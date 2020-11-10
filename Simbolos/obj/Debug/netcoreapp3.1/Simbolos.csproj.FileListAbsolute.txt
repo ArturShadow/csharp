@@ -1,0 +1,13 @@
+P:\c#\Simbolos\bin\Debug\netcoreapp3.1\Simbolos.exe
+P:\c#\Simbolos\bin\Debug\netcoreapp3.1\Simbolos.deps.json
+P:\c#\Simbolos\bin\Debug\netcoreapp3.1\Simbolos.runtimeconfig.json
+P:\c#\Simbolos\bin\Debug\netcoreapp3.1\Simbolos.runtimeconfig.dev.json
+P:\c#\Simbolos\bin\Debug\netcoreapp3.1\Simbolos.dll
+P:\c#\Simbolos\bin\Debug\netcoreapp3.1\Simbolos.pdb
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.csprojAssemblyReference.cache
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.AssemblyInfoInputs.cache
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.AssemblyInfo.cs
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.csproj.CoreCompileInputs.cache
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.dll
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.pdb
+P:\c#\Simbolos\obj\Debug\netcoreapp3.1\Simbolos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.csprojAssemblyReference.cache
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.AssemblyInfoInputs.cache
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.AssemblyInfo.cs
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.csproj.CoreCompileInputs.cache
+P:\c#\switchcase\bin\Debug\netcoreapp3.1\switchcase.exe
+P:\c#\switchcase\bin\Debug\netcoreapp3.1\switchcase.deps.json
+P:\c#\switchcase\bin\Debug\netcoreapp3.1\switchcase.runtimeconfig.json
+P:\c#\switchcase\bin\Debug\netcoreapp3.1\switchcase.runtimeconfig.dev.json
+P:\c#\switchcase\bin\Debug\netcoreapp3.1\switchcase.dll
+P:\c#\switchcase\bin\Debug\netcoreapp3.1\switchcase.pdb
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.dll
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.pdb
+P:\c#\switchcase\obj\Debug\netcoreapp3.1\switchcase.genruntimeconfig.cache
