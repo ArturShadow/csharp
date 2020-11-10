@@ -6,10 +6,11 @@ namespace Ciclos
     {
         static void Main(string[] args)
         {
-            int numero = 1, cont = 0, total_Suma = 0;
+            int numero = 1;
+            //, cont = 0, total_Suma = 0;
 
-            Console.WriteLine("Dame un numero");
-            numero = int.Parse(Console.ReadLine());
+            // Console.WriteLine("Dame un numero");
+            // numero = int.Parse(Console.ReadLine());
             /*
             while (numero > 0)
             {
@@ -19,7 +20,7 @@ namespace Ciclos
                 total_Suma = total_Suma + numero;
             }
 
-*/
+*//*
             do
             {
                 if(numero > 0)
@@ -34,6 +35,14 @@ namespace Ciclos
             } while (numero > 0);
             
             Console.WriteLine("La catidad de numeros capturados es de " + cont + " y la suma total de todos los numeros es de " + total_Suma);
+*/
+            
+            Console.WriteLine("Cal tabla quieres");
+            numero = int.Parse(Console.ReadLine());            
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine(numero + " x " + i + " = " + (numero*i));
+            }
         }
     }
 }

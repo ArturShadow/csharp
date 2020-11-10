@@ -1,0 +1,13 @@
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.csprojAssemblyReference.cache
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.AssemblyInfoInputs.cache
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.AssemblyInfo.cs
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.csproj.CoreCompileInputs.cache
+P:\c#\validacion\bin\Debug\netcoreapp3.1\validacion.exe
+P:\c#\validacion\bin\Debug\netcoreapp3.1\validacion.deps.json
+P:\c#\validacion\bin\Debug\netcoreapp3.1\validacion.runtimeconfig.json
+P:\c#\validacion\bin\Debug\netcoreapp3.1\validacion.runtimeconfig.dev.json
+P:\c#\validacion\bin\Debug\netcoreapp3.1\validacion.dll
+P:\c#\validacion\bin\Debug\netcoreapp3.1\validacion.pdb
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.dll
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.pdb
+P:\c#\validacion\obj\Debug\netcoreapp3.1\validacion.genruntimeconfig.cache

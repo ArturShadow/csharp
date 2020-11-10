@@ -1,0 +1,13 @@
+P:\c#\contador\bin\Debug\netcoreapp3.1\contador.exe
+P:\c#\contador\bin\Debug\netcoreapp3.1\contador.deps.json
+P:\c#\contador\bin\Debug\netcoreapp3.1\contador.runtimeconfig.json
+P:\c#\contador\bin\Debug\netcoreapp3.1\contador.runtimeconfig.dev.json
+P:\c#\contador\bin\Debug\netcoreapp3.1\contador.dll
+P:\c#\contador\bin\Debug\netcoreapp3.1\contador.pdb
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.csprojAssemblyReference.cache
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.AssemblyInfoInputs.cache
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.AssemblyInfo.cs
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.csproj.CoreCompileInputs.cache
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.dll
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.pdb
+P:\c#\contador\obj\Debug\netcoreapp3.1\contador.genruntimeconfig.cache
