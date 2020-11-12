@@ -1,0 +1,13 @@
+P:\c#\dinero\bin\Debug\netcoreapp3.1\dinero.exe
+P:\c#\dinero\bin\Debug\netcoreapp3.1\dinero.deps.json
+P:\c#\dinero\bin\Debug\netcoreapp3.1\dinero.runtimeconfig.json
+P:\c#\dinero\bin\Debug\netcoreapp3.1\dinero.runtimeconfig.dev.json
+P:\c#\dinero\bin\Debug\netcoreapp3.1\dinero.dll
+P:\c#\dinero\bin\Debug\netcoreapp3.1\dinero.pdb
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.csprojAssemblyReference.cache
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.AssemblyInfoInputs.cache
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.AssemblyInfo.cs
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.csproj.CoreCompileInputs.cache
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.dll
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.pdb
+P:\c#\dinero\obj\Debug\netcoreapp3.1\dinero.genruntimeconfig.cache

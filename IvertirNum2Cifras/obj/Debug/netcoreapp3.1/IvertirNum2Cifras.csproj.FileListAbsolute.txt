@@ -1,0 +1,13 @@
+P:\c#\IvertirNum2Cifras\bin\Debug\netcoreapp3.1\IvertirNum2Cifras.exe
+P:\c#\IvertirNum2Cifras\bin\Debug\netcoreapp3.1\IvertirNum2Cifras.deps.json
+P:\c#\IvertirNum2Cifras\bin\Debug\netcoreapp3.1\IvertirNum2Cifras.runtimeconfig.json
+P:\c#\IvertirNum2Cifras\bin\Debug\netcoreapp3.1\IvertirNum2Cifras.runtimeconfig.dev.json
+P:\c#\IvertirNum2Cifras\bin\Debug\netcoreapp3.1\IvertirNum2Cifras.dll
+P:\c#\IvertirNum2Cifras\bin\Debug\netcoreapp3.1\IvertirNum2Cifras.pdb
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.csprojAssemblyReference.cache
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.AssemblyInfoInputs.cache
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.AssemblyInfo.cs
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.csproj.CoreCompileInputs.cache
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.dll
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.pdb
+P:\c#\IvertirNum2Cifras\obj\Debug\netcoreapp3.1\IvertirNum2Cifras.genruntimeconfig.cache

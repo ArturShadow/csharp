@@ -1,0 +1,13 @@
+P:\c#\ForAninado\bin\Debug\netcoreapp3.1\ForAninado.exe
+P:\c#\ForAninado\bin\Debug\netcoreapp3.1\ForAninado.deps.json
+P:\c#\ForAninado\bin\Debug\netcoreapp3.1\ForAninado.runtimeconfig.json
+P:\c#\ForAninado\bin\Debug\netcoreapp3.1\ForAninado.runtimeconfig.dev.json
+P:\c#\ForAninado\bin\Debug\netcoreapp3.1\ForAninado.dll
+P:\c#\ForAninado\bin\Debug\netcoreapp3.1\ForAninado.pdb
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.csprojAssemblyReference.cache
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.AssemblyInfoInputs.cache
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.AssemblyInfo.cs
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.csproj.CoreCompileInputs.cache
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.dll
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.pdb
+P:\c#\ForAninado\obj\Debug\netcoreapp3.1\ForAninado.genruntimeconfig.cache

@@ -43,6 +43,7 @@ namespace Ciclos
             {
                 Console.WriteLine(numero + " x " + i + " = " + (numero*i));
             }
+            
         }
     }
 }
