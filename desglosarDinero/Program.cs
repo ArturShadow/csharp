@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dinero
+namespace desglosaDinero
 {
     class Program
     {
@@ -9,7 +9,7 @@ namespace dinero
 
             string res = "si";
             int aux = 0, dinero = 0;
-            int billetes500 = 0, billetes200 = 0, billetes100 = 0, billetes50 = 0,  billetes20 = 0, monedas10 = 0, monedas5 = 0;
+            int billetes500 = 0, billetes100 = 0, billetes50 = 0,  billetes20 = 0, monedas10 = 0, monedas5 = 0;
 
             while(res == "s" || res == "si"){
 
