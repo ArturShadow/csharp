@@ -20,7 +20,7 @@ namespace desglosaDinero
 
                 } while(aux > 1000);
 
-                if(aux >= 500) {
+                if(aux >= 500) {    
                     billetes500 = aux/500;
                     aux = aux % 500;
                     Console.WriteLine(dinero + " en billetes de 500 son " + billetes500);
