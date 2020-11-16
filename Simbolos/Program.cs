@@ -6,21 +6,21 @@ namespace Simbolos
     {
         static void Main(string[] args)
         {
-            double num1;
-            double num2;
+            double puntos1;
+            double puntos2;
             double res;
 
-            num1 = 0;
-            num2 = 0;
+            puntos1 = 0;
+            puntos2 = 0;
             res = 0;
 
 
             Console.WriteLine("Hello World!");
-            num1 = int.Parse(Console.ReadLine());
+            puntos1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Hello World!");
-            num2 = int.Parse(Console.ReadLine());
+            puntos2 = int.Parse(Console.ReadLine());
 
-            res = Math.Pow(num1, num2);
+            res = Math.Pow(puntos1, puntos2);
 
             Console.WriteLine(res);
         }

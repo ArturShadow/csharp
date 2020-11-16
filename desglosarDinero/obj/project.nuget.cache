@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tDjhPzP10Myz0Wd21RGpJZoUmShlsEfw8nALX5vA5EbIi+AG+BbHZJC93Yz9GD7RwvKhYPyuQu6xAfEmifE/lw==",
+  "dgSpecHash": "fwIyl7+liwjnN1CIPyiwGSPUxtEz1burZnGSDnCPhfSa/aS8vb5OyP3kW/mDgT0EckGo/XOOvDF/rsAVYvPrww==",
   "success": true,
-  "projectFilePath": "P:\\c#\\dinero\\dinero.csproj",
+  "projectFilePath": "P:\\c#\\desglosarDinero\\dinero.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

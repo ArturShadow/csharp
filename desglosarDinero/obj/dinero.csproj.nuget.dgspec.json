@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\c#\\dinero\\dinero.csproj": {}
+    "P:\\c#\\desglosarDinero\\dinero.csproj": {}
   },
   "projects": {
-    "P:\\c#\\dinero\\dinero.csproj": {
+    "P:\\c#\\desglosarDinero\\dinero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\c#\\dinero\\dinero.csproj",
+        "projectUniqueName": "P:\\c#\\desglosarDinero\\dinero.csproj",
         "projectName": "dinero",
-        "projectPath": "P:\\c#\\dinero\\dinero.csproj",
+        "projectPath": "P:\\c#\\desglosarDinero\\dinero.csproj",
         "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
-        "outputPath": "P:\\c#\\dinero\\obj\\",
+        "outputPath": "P:\\c#\\desglosarDinero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisa\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,13 @@
+P:\c#\Actividad4\02CentroVerific\bin\Debug\netcoreapp3.1\02CentroVerific.exe
+P:\c#\Actividad4\02CentroVerific\bin\Debug\netcoreapp3.1\02CentroVerific.deps.json
+P:\c#\Actividad4\02CentroVerific\bin\Debug\netcoreapp3.1\02CentroVerific.runtimeconfig.json
+P:\c#\Actividad4\02CentroVerific\bin\Debug\netcoreapp3.1\02CentroVerific.runtimeconfig.dev.json
+P:\c#\Actividad4\02CentroVerific\bin\Debug\netcoreapp3.1\02CentroVerific.dll
+P:\c#\Actividad4\02CentroVerific\bin\Debug\netcoreapp3.1\02CentroVerific.pdb
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.csprojAssemblyReference.cache
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.AssemblyInfoInputs.cache
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.AssemblyInfo.cs
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.csproj.CoreCompileInputs.cache
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.dll
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.pdb
+P:\c#\Actividad4\02CentroVerific\obj\Debug\netcoreapp3.1\02CentroVerific.genruntimeconfig.cache

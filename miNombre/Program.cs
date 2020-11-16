@@ -31,25 +31,25 @@ namespace miNombre
 
             /*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-            // int numero;
-            // int numero2;
+            // int puntosero;
+            // int puntosero2;
             // float respuesta;
 
-            // /System.Console.WriteLine("Ingresa un numero ");
-            // /numero = int.Parse(Console.ReadLine());
-            // /System.Console.WriteLine("Ingresa otro numero");
-            // /numero2 = int.Parse(Console.ReadLine());
+            // /System.Console.WriteLine("Ingresa un puntosero ");
+            // /puntosero = int.Parse(Console.ReadLine());
+            // /System.Console.WriteLine("Ingresa otro puntosero");
+            // /puntosero2 = int.Parse(Console.ReadLine());
 
-            // respuesta = numero+numero2;
+            // respuesta = puntosero+puntosero2;
             // System.Console.WriteLine("La respuesta de la suma es: " + respuesta);
 
-            // respuesta = numero-numero2;
+            // respuesta = puntosero-puntosero2;
             // System.Console.WriteLine("La respuesta de la resta es: " + respuesta);
 
-            // /respuesta = numero*numero2;
+            // /respuesta = puntosero*puntosero2;
             // /System.Console.WriteLine("La respuesta de la multiplicacion es: " + respuesta);
 
-            // respuesta = numero/numero2;
+            // respuesta = puntosero/puntosero2;
             // System.Console.WriteLine("La respuesta de la division es: " + respuesta);
 
             /*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/

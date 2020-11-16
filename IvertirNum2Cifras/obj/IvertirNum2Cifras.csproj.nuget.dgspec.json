@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\c#\\IvertirNum2Cifras\\IvertirNum2Cifras.csproj": {}
+    "P:\\c#\\Ivertirpuntos2Cifras\\Ivertirpuntos2Cifras.csproj": {}
   },
   "projects": {
-    "P:\\c#\\IvertirNum2Cifras\\IvertirNum2Cifras.csproj": {
+    "P:\\c#\\Ivertirpuntos2Cifras\\Ivertirpuntos2Cifras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\c#\\IvertirNum2Cifras\\IvertirNum2Cifras.csproj",
-        "projectName": "IvertirNum2Cifras",
-        "projectPath": "P:\\c#\\IvertirNum2Cifras\\IvertirNum2Cifras.csproj",
+        "projectUniqueName": "P:\\c#\\Ivertirpuntos2Cifras\\Ivertirpuntos2Cifras.csproj",
+        "projectName": "Ivertirpuntos2Cifras",
+        "projectPath": "P:\\c#\\Ivertirpuntos2Cifras\\Ivertirpuntos2Cifras.csproj",
         "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
-        "outputPath": "P:\\c#\\IvertirNum2Cifras\\obj\\",
+        "outputPath": "P:\\c#\\Ivertirpuntos2Cifras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisa\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,13 @@
+P:\c#\Actividad4\01ListDefin\bin\Debug\netcoreapp3.1\01ListDefin.exe
+P:\c#\Actividad4\01ListDefin\bin\Debug\netcoreapp3.1\01ListDefin.deps.json
+P:\c#\Actividad4\01ListDefin\bin\Debug\netcoreapp3.1\01ListDefin.runtimeconfig.json
+P:\c#\Actividad4\01ListDefin\bin\Debug\netcoreapp3.1\01ListDefin.runtimeconfig.dev.json
+P:\c#\Actividad4\01ListDefin\bin\Debug\netcoreapp3.1\01ListDefin.dll
+P:\c#\Actividad4\01ListDefin\bin\Debug\netcoreapp3.1\01ListDefin.pdb
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.csprojAssemblyReference.cache
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.AssemblyInfoInputs.cache
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.AssemblyInfo.cs
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.csproj.CoreCompileInputs.cache
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.dll
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.pdb
+P:\c#\Actividad4\01ListDefin\obj\Debug\netcoreapp3.1\01ListDefin.genruntimeconfig.cache

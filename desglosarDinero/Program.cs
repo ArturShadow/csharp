@@ -15,10 +15,13 @@ namespace desglosaDinero
 
                 Console.WriteLine("Dame una cifra menor a 1000");
                 do{
-                dinero = int.Parse(Console.ReadLine());
-                aux = dinero;
+                    dinero = int.Parse(Console.ReadLine());
+                    if(dinero > 1000){
+                        Console.WriteLine("Solo se admiten cifras menores o iguales a 1000");
+                    }
 
-                } while(aux > 1000);
+                } while(dinero > 1000);
+                aux = dinero;
 
                 if(aux >= 500) {    
                     billetes500 = aux/500;
@@ -55,8 +58,8 @@ namespace desglosaDinero
                     aux = aux % 5;
                     Console.WriteLine(dinero + " en monedas de 5 son " + monedas5);
                 }
-                Console.WriteLine("Quieres otra aux?");
-                res = Console.ReadLine().ToLower();
+                Console.WriteLine("Quieres otra cantidad?");
+                res = Console.ReadLine().ToLower(); //SI -> si
             }
         } 
     }
