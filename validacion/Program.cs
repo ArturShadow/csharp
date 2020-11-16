@@ -6,11 +6,11 @@ namespace validacion
     {
         static void Main(string[] args)
         {
-            string puntosero = "";
+            string numero = "";
             int longitud = 0;
             Console.WriteLine("una cifra");
-            puntosero = Console.ReadLine();
-            longitud = puntosero.Length;
+            numero = Console.ReadLine();
+            longitud = numero.Length;
             
         }
     }

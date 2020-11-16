@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\c#\\Ivertirpuntos2Cifras\\Ivertirpuntos2Cifras.csproj",
-      "projectName": "Ivertirpuntos2Cifras",
-      "projectPath": "P:\\c#\\Ivertirpuntos2Cifras\\Ivertirpuntos2Cifras.csproj",
+      "projectUniqueName": "P:\\c#\\Ivertirnum2Cifras\\Ivertirnum2Cifras.csproj",
+      "projectName": "Ivertirnum2Cifras",
+      "projectPath": "P:\\c#\\Ivertirnum2Cifras\\Ivertirnum2Cifras.csproj",
       "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
-      "outputPath": "P:\\c#\\Ivertirpuntos2Cifras\\obj\\",
+      "outputPath": "P:\\c#\\Ivertirnum2Cifras\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisa\\AppData\\Roaming\\NuGet\\NuGet.Config"

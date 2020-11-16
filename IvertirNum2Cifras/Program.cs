@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace Ivertirpuntos2Cifras
+namespace Ivertirnum2Cifras
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int puntos, dec, uni, cen, aux;
-            Console.WriteLine("Ingresa un puntosero de 2 cifras");
-            puntos = int.Parse(Console.ReadLine());
-            uni = puntos % 10;
-            aux = puntos / 10;
+            int num, dec, uni, cen, aux;
+            Console.WriteLine("Ingresa un numero de 2 cifras");
+            num = int.Parse(Console.ReadLine());
+            uni = num % 10;
+            aux = num / 10;
             dec = aux % 10;
             aux = aux / 10;
             cen = aux % 10;

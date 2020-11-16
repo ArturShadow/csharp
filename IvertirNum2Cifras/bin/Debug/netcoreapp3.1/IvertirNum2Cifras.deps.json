@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Ivertirpuntos2Cifras/1.0.0": {
+      "Ivertirnum2Cifras/1.0.0": {
         "runtime": {
-          "Ivertirpuntos2Cifras.dll": {}
+          "Ivertirnum2Cifras.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Ivertirpuntos2Cifras/1.0.0": {
+    "Ivertirnum2Cifras/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

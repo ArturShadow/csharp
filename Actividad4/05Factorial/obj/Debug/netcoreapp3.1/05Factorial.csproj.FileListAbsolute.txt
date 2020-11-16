@@ -1,0 +1,13 @@
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.csprojAssemblyReference.cache
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.AssemblyInfoInputs.cache
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.AssemblyInfo.cs
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.csproj.CoreCompileInputs.cache
+P:\c#\Actividad4\05Factorial\bin\Debug\netcoreapp3.1\05Factorial.exe
+P:\c#\Actividad4\05Factorial\bin\Debug\netcoreapp3.1\05Factorial.deps.json
+P:\c#\Actividad4\05Factorial\bin\Debug\netcoreapp3.1\05Factorial.runtimeconfig.json
+P:\c#\Actividad4\05Factorial\bin\Debug\netcoreapp3.1\05Factorial.runtimeconfig.dev.json
+P:\c#\Actividad4\05Factorial\bin\Debug\netcoreapp3.1\05Factorial.dll
+P:\c#\Actividad4\05Factorial\bin\Debug\netcoreapp3.1\05Factorial.pdb
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.dll
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.pdb
+P:\c#\Actividad4\05Factorial\obj\Debug\netcoreapp3.1\05Factorial.genruntimeconfig.cache

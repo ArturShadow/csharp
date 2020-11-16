@@ -8,7 +8,7 @@ namespace switchcase
         {
             int op_mes = 0;
             int op_dia = 0;
-            Console.WriteLine("Dame el puntosero dia de la semana");
+            Console.WriteLine("Dame el numero dia de la semana");
             op_mes = int.Parse(Console.ReadLine());
 
             switch (op_dia)

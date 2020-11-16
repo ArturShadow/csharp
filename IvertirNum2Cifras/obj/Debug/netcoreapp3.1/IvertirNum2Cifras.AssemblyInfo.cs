@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ivertirpuntos2Cifras")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ivertirnum2Cifras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ivertirpuntos2Cifras")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ivertirpuntos2Cifras")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ivertirnum2Cifras")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ivertirnum2Cifras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

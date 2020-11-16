@@ -6,42 +6,42 @@ namespace Ciclos
     {
         static void Main(string[] args)
         {
-            int puntosero = 1;
+            int numero = 1;
             //, cont = 0, total_Suma = 0;
 
-            // Console.WriteLine("Dame un puntosero");
-            // puntosero = int.Parse(Console.ReadLine());
+            // Console.WriteLine("Dame un numero");
+            // numero = int.Parse(Console.ReadLine());
             /*
-            while (puntosero > 0)
+            while (numero > 0)
             {
                 cont++;
-                Console.WriteLine("Dame el siguiente puntosero");
-                puntosero = intParse(Console.ReadLine());
-                total_Suma = total_Suma + puntosero;
+                Console.WriteLine("Dame el siguiente numero");
+                numero = intParse(Console.ReadLine());
+                total_Suma = total_Suma + numero;
             }
 
 *//*
             do
             {
-                if(puntosero > 0)
+                if(numero > 0)
                 {
                     cont++;
                 }
-                Console.WriteLine("Dame el siguiente puntosero");
-                puntosero = int.Parse(Console.ReadLine());
-                total_Suma = total_Suma + puntosero;
+                Console.WriteLine("Dame el siguiente numero");
+                numero = int.Parse(Console.ReadLine());
+                total_Suma = total_Suma + numero;
                 
                 
-            } while (puntosero > 0);
+            } while (numero > 0);
             
-            Console.WriteLine("La catidad de puntoseros capturados es de " + cont + " y la suma total de todos los puntoseros es de " + total_Suma);
+            Console.WriteLine("La catidad de numeros capturados es de " + cont + " y la suma total de todos los numeros es de " + total_Suma);
 */
             
             Console.WriteLine("Cal tabla quieres");
-            puntosero = int.Parse(Console.ReadLine());            
+            numero = int.Parse(Console.ReadLine());            
             for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine(puntosero + " x " + i + " = " + (puntosero*i));
+                Console.WriteLine(numero + " x " + i + " = " + (numero*i));
             }
             
         }
