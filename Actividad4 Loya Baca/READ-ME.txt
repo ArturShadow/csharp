@@ -1,0 +1,12 @@
+Programas de la actividad 4
+Contenido
+        1. Programa que muestra los numeros que estan en el rango introducido
+        2. Programa que determina el automovil que mas contaninna y el que menos contamina y saca el promadio
+        3. Programa que determina el numero mayor y el menor entre 10 numeros
+        4. Programa que imprimne la tabla que quiera el usuario hasta el diez
+        5. Programa que calcula el factorial de un numero
+        6. Programa que imprime un triangulo de astericos
+        7. Programa que imprime un Pinito de astericos del tamaño que quiera el usuario
+        8. Programa que imprime un rombo de astericos del tamaño que quiera el usuario
+Creados por Luis Arturo Loya Baca
+TID11D
