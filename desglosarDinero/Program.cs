@@ -21,9 +21,9 @@ namespace desglosaDinero
                     if(dinero > 1000){
                         Console.WriteLine("Solo se admiten cifras menores o iguales a 1000");
                     }
-                    Console.WriteLine("$" + dinero + " pesos desglosado seria ");
 
                 } while(dinero > 1000);
+                Console.WriteLine("$" + dinero + " pesos desglosado seria ");
                 aux = dinero;
 
                 if(aux >= 500) {    
