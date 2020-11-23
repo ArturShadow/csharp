@@ -1,0 +1,13 @@
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.csprojAssemblyReference.cache
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfoInputs.cache
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfo.cs
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.csproj.CoreCompileInputs.cache
+P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.exe
+P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.deps.json
+P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.json
+P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.dev.json
+P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.dll
+P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.dll
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
+P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.genruntimeconfig.cache
