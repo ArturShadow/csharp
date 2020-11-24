@@ -11,3 +11,16 @@ P:\Escuela\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
 P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.dll
 P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
 P:\Escuela\Factura\obj\Debug\netcoreapp3.1\Factura.genruntimeconfig.cache
+P:\GitHub\csharp\Factura\bin\Debug\netcoreapp3.1\Factura.exe
+P:\GitHub\csharp\Factura\bin\Debug\netcoreapp3.1\Factura.deps.json
+P:\GitHub\csharp\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.json
+P:\GitHub\csharp\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.dev.json
+P:\GitHub\csharp\Factura\bin\Debug\netcoreapp3.1\Factura.dll
+P:\GitHub\csharp\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.csprojAssemblyReference.cache
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfoInputs.cache
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfo.cs
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.csproj.CoreCompileInputs.cache
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.dll
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
+P:\GitHub\csharp\Factura\obj\Debug\netcoreapp3.1\Factura.genruntimeconfig.cache

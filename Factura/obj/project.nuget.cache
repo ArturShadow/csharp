@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNgcMtHNiOEPLPXhPakSzjPlFLuk2GHsEVm3lxnx+qKaDpz0e5GeUMgLnvC+IJ4GrTVqL634xhbck3ZjgrktTw==",
+  "dgSpecHash": "JRCXqe5/o3DzIqcZGg1Yp5gl3GYWRj8+rwtBy8NpLKMZ/OyqkC44L/YqKqs59YCPF9EHsAEdzHbYeMYGDWKyXg==",
   "success": true,
-  "projectFilePath": "P:\\Escuela\\Factura\\Factura.csproj",
+  "projectFilePath": "P:\\GitHub\\csharp\\Factura\\Factura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

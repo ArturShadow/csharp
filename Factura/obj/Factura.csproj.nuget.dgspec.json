@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Escuela\\Factura\\Factura.csproj": {}
+    "P:\\GitHub\\csharp\\Factura\\Factura.csproj": {}
   },
   "projects": {
-    "P:\\Escuela\\Factura\\Factura.csproj": {
+    "P:\\GitHub\\csharp\\Factura\\Factura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Escuela\\Factura\\Factura.csproj",
+        "projectUniqueName": "P:\\GitHub\\csharp\\Factura\\Factura.csproj",
         "projectName": "Factura",
-        "projectPath": "P:\\Escuela\\Factura\\Factura.csproj",
-        "packagesPath": "C:\\Users\\luisa_jafcmv7\\.nuget\\packages\\",
-        "outputPath": "P:\\Escuela\\Factura\\obj\\",
+        "projectPath": "P:\\GitHub\\csharp\\Factura\\Factura.csproj",
+        "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
+        "outputPath": "P:\\GitHub\\csharp\\Factura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisa_jafcmv7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luisa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -13,7 +13,7 @@ namespace Factura
             int[] cantidad = new int[noArticulos];
             string[] descripcion = new string[noArticulos];
             double[] subtotal = new double[noArticulos];
-            int[] precio = new int[noArticulos];
+            double[] precio = new double[noArticulos];
             
             for (i = 0; i < noArticulos; i++)
             {
@@ -23,14 +23,14 @@ namespace Factura
                 Console.Write("Cantidad: ");
                 cantidad[i] = int.Parse(Console.ReadLine());
                 Console.Write("Precio: ");
-                precio[i] = int.Parse(Console.ReadLine());
+                precio[i] = double.Parse(Console.ReadLine());
                 
                 subtotal[i] = cantidad[i] * precio[i];
                 subtot = subtot + subtotal[i];
             }
                 Console.WriteLine("Cantidad       Descripcion   Precio      Subtotal");
             for(i = 0; i < noArticulos; i++){
-                Console.WriteLine(" {0:D3}                {1}       {2}       {3} ", cantidad[i], descripcion[i], precio[i], subtotal[i]);
+                Console.WriteLine(" {0}\t\t{1}\t{2}\t{3} ", cantidad[i], descripcion[i], precio[i], subtotal[i]);
             }  
             Console.WriteLine("Subtotal: " + subtot);
             Console.WriteLine("IVA: " + (subtot*.16));
