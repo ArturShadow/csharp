@@ -1,0 +1,13 @@
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.csprojAssemblyReference.cache
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.AssemblyInfoInputs.cache
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.AssemblyInfo.cs
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.csproj.CoreCompileInputs.cache
+P:\GitHub\csharp\Metodo burbuja\bin\Debug\netcoreapp3.1\Metodo burbuja.exe
+P:\GitHub\csharp\Metodo burbuja\bin\Debug\netcoreapp3.1\Metodo burbuja.deps.json
+P:\GitHub\csharp\Metodo burbuja\bin\Debug\netcoreapp3.1\Metodo burbuja.runtimeconfig.json
+P:\GitHub\csharp\Metodo burbuja\bin\Debug\netcoreapp3.1\Metodo burbuja.runtimeconfig.dev.json
+P:\GitHub\csharp\Metodo burbuja\bin\Debug\netcoreapp3.1\Metodo burbuja.dll
+P:\GitHub\csharp\Metodo burbuja\bin\Debug\netcoreapp3.1\Metodo burbuja.pdb
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.dll
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.pdb
+P:\GitHub\csharp\Metodo burbuja\obj\Debug\netcoreapp3.1\Metodo burbuja.genruntimeconfig.cache

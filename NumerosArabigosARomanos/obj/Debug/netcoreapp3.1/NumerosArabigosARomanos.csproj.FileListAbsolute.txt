@@ -1,0 +1,13 @@
+P:\c#\NumerosArabigosARomanos\bin\Debug\netcoreapp3.1\NumerosArabigosARomanos.exe
+P:\c#\NumerosArabigosARomanos\bin\Debug\netcoreapp3.1\NumerosArabigosARomanos.deps.json
+P:\c#\NumerosArabigosARomanos\bin\Debug\netcoreapp3.1\NumerosArabigosARomanos.runtimeconfig.json
+P:\c#\NumerosArabigosARomanos\bin\Debug\netcoreapp3.1\NumerosArabigosARomanos.runtimeconfig.dev.json
+P:\c#\NumerosArabigosARomanos\bin\Debug\netcoreapp3.1\NumerosArabigosARomanos.dll
+P:\c#\NumerosArabigosARomanos\bin\Debug\netcoreapp3.1\NumerosArabigosARomanos.pdb
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.csprojAssemblyReference.cache
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.AssemblyInfoInputs.cache
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.AssemblyInfo.cs
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.csproj.CoreCompileInputs.cache
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.dll
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.pdb
+P:\c#\NumerosArabigosARomanos\obj\Debug\netcoreapp3.1\NumerosArabigosARomanos.genruntimeconfig.cache
