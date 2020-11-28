@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Luis Arturo Loya Baca
+//TID11D
+using System;
 
 namespace Factura
 {
@@ -8,7 +10,7 @@ namespace Factura
         {
             int noArticulos = 0, i;
             double subtot = 0;
-            Console.WriteLine("Cuantos articulos se van a capturar");
+            Console.Write("¿Cuantos articulos se van a capturar? ");
             noArticulos = int.Parse(Console.ReadLine());
             int[] cantidad = new int[noArticulos];
             string[] descripcion = new string[noArticulos];
@@ -28,21 +30,17 @@ namespace Factura
                 subtotal[i] = cantidad[i] * precio[i];
                 subtot = subtot + subtotal[i];
             }
-                Console.WriteLine("Cantidad       Descripcion   Precio      Subtotal");
+            Console.WriteLine("=========================================================");
+            Console.WriteLine("Cantidad\tDescripcion\tPrecio\tSubtotal");
+            Console.WriteLine("=========================================================");
             for(i = 0; i < noArticulos; i++){
-                Console.WriteLine(" {0}\t\t{1}\t{2}\t{3} ", cantidad[i], descripcion[i], precio[i], subtotal[i]);
+                Console.WriteLine("{0:D4}\t\t  {1}\t\t{2:C2}\t{3:C2} ", cantidad[i], descripcion[i], precio[i], subtotal[i]);
             }  
-            Console.WriteLine("Subtotal: " + subtot);
-            Console.WriteLine("IVA: " + (subtot*.16));
-            Console.WriteLine("Total: " + (subtot+(subtot*.16)));
-            
-                  //cantidad descricpion precio subtotal
-                    //   1     chiccle    5      5
- 
-                         //subtotal 104
-                         //iva       17
-                         //total     121
-            //presentar subtotal iva16 y total
+            Console.WriteLine("=========================================================");
+            Console.WriteLine("\t\t\tSubtotal: \t{0:C1} ", subtot);
+            Console.WriteLine("\t\t\tIVA: \t\t{0:C1}", (subtot*.16));
+            Console.WriteLine("\t\t\tTotal: \t\t{0:C1}", subtot+(subtot*.16));
+            Console.WriteLine("=========================================================");
         }
     }
 }

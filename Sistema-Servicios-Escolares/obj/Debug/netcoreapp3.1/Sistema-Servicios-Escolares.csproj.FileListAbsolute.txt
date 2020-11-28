@@ -1,0 +1,13 @@
+P:\GitHub\csharp\Sistema-Servicios-Escolares\bin\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.exe
+P:\GitHub\csharp\Sistema-Servicios-Escolares\bin\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.deps.json
+P:\GitHub\csharp\Sistema-Servicios-Escolares\bin\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.runtimeconfig.json
+P:\GitHub\csharp\Sistema-Servicios-Escolares\bin\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.runtimeconfig.dev.json
+P:\GitHub\csharp\Sistema-Servicios-Escolares\bin\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.dll
+P:\GitHub\csharp\Sistema-Servicios-Escolares\bin\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.pdb
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.csprojAssemblyReference.cache
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.AssemblyInfoInputs.cache
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.AssemblyInfo.cs
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.csproj.CoreCompileInputs.cache
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.dll
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.pdb
+P:\GitHub\csharp\Sistema-Servicios-Escolares\obj\Debug\netcoreapp3.1\Sistema-Servicios-Escolares.genruntimeconfig.cache
