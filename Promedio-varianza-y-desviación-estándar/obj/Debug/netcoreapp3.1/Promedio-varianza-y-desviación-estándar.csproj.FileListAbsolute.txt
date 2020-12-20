@@ -1,0 +1,13 @@
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\bin\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.exe
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\bin\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.deps.json
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\bin\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.runtimeconfig.json
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\bin\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.runtimeconfig.dev.json
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\bin\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.dll
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\bin\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.pdb
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.csprojAssemblyReference.cache
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.AssemblyInfoInputs.cache
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.AssemblyInfo.cs
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.csproj.CoreCompileInputs.cache
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.dll
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.pdb
+P:\GitHub\csharp\Promedio-varianza-y-desviación-estándar\obj\Debug\netcoreapp3.1\Promedio-varianza-y-desviación-estándar.genruntimeconfig.cache
